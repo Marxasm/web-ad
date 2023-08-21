@@ -87,7 +87,7 @@ function Index() {
               {/* Replace this with your ad code or content */}
               <h1 className="card-title text-white text-center">Next Steps</h1>
               <p className="card-text text-white text-center">
-                1. Complete a brief questionnaire
+                1. Complete a brief questionnaire <br></br>
                 2. Receive a comprehensive geriatric assessment by the study physician and research team
               </p>
               <a
